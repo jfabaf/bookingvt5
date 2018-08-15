@@ -1,0 +1,6 @@
+users:
+  root:
+    roles:
+    - administrator
+    - owner
+    password: root
